@@ -10,4 +10,5 @@ public class BoardBackApplication {
 		SpringApplication.run(BoardBackApplication.class, args);
 	}
 
+	
 }
